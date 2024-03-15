@@ -1,4 +1,4 @@
-Pergunta 1 - Resposta: O valor será 91.
+Pergunta 1 - O valor será 91.
 
 Pergunta 2 - Linguagem escolhida: Javascript.
 Código:
@@ -28,7 +28,7 @@ Pergunta 3 - a) 9, b) 128, c) 49, d) 100, e) 13, f) 200
 
 Pergunta 4 - Foi definido apenas que não posso ver a lampada apenas da sala onde estou atualmente, então existe a possibilidade de conferir quais são as lampadas acesas das outras salas onde não estou. Nesse caso, não seria nem necessário sair da sala, apenas virando os interruptores duas vezes ja seria o suficiente para descobrir a qual sala todos estão associados.
 
-Pergunta 5 - Linaguem escolhida: Javascript.
+Pergunta 5 - Linguagem escolhida: Javascript.
 Código:
 
         let texto = "texto";
